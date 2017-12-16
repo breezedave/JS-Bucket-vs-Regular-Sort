@@ -1,0 +1,13 @@
+{
+    "name": "Sort",
+    "displayName": "Sort",
+    "version": "1.0.0",
+    "description": "Sort",
+    "scripts": {},
+    "dependencies": {},
+    "devDependencies": {
+        "file-system": "*",
+        "gulp": "^3.9.1",
+        "gulp-cli": "*"
+    }
+}
